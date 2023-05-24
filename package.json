@@ -11,5 +11,11 @@
   "devDependencies": {
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.194",
+    "@types/underscore": "^1.11.4",
+    "lodash": "^4.17.21",
+    "underscore": "^1.13.6"
   }
 }
